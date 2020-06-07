@@ -13,6 +13,7 @@ export class ViewComponent implements OnInit {
   codes;
   stringify = JSON.stringify;
   entryIndex = 0;
+  viewMeta = false;
 
   constructor(
     private router: Router,
@@ -58,6 +59,11 @@ export class ViewComponent implements OnInit {
   viewCodes(event) {
     event.preventDefault();
     this.router.navigate([`/codes`]);
+  }
+
+  toggleMeta(event) {
+    event.preventDefault();
+    this.viewMeta = !this.viewMeta;
   }
 
   getPastCodes() {

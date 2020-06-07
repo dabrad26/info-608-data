@@ -3,6 +3,36 @@
 <a *ngIf="entryIndex + 1 !== data.length" (click)="goNext($event)" class="nav-links" href="#">Next</a>
 <a (click)="viewCodes($event)" class="nav-links" href="#">View Code Breakdown</a>
 <h2>Viewing entry: {{entry.date}}</h2>
+<div class="metadata {{viewMeta ? 'open' : ''}}">
+    <a href="#" class="nav-links" (click)="toggleMeta($event)">{{viewMeta ? 'Hide' : 'View'}} Metadata</a>
+    <ul *ngIf="viewMeta" class="meta-content">
+        <li>Day Scale: <span>{{entry.scale}}</span></li>
+        <li>Day Type: <span>{{entry.day_type}}</span></li>
+        <li>Household Problems: <span>{{entry.household_problems}}</span></li>
+        <li>Saddening Internal news: <span>{{entry.internal_news_bad_influence}}</span></li>
+        <li>Saddening External news: <span>{{entry.external_news_bad_influence}}</span></li>
+        <li>Work Problems: <span>{{entry.work_problems}}</span></li>
+        <li>Relationship Problems: <span>{{entry.relationship_problems}}</span></li>
+        <li>Consumed Alcohol: <span>{{entry.consumed_alchol}}</span></li>
+        <li>Got out of the house: <span>{{entry.got_outside}}</span></li>
+        <li>Low Heartrate (bpm): <span>{{entry.heartrate_low}}</span></li>
+        <li>High Heartrate (bpm): <span>{{entry.heartrate_high}}</span></li>
+        <li>Avg Resting Heartrate (bpm): <span>{{entry.heartrate_resting}}</span></li>
+        <li>Exercised: <span>{{entry.exercised}}</span></li>
+        <li>Exercise Type: <span>{{entry.exercise_type}}</span></li>
+        <li>Exercise Time: <span>{{entry.exercise_time}}</span></li>
+        <li>Active Energy (kcal): <span>{{entry.kcal_active}}</span></li>
+        <li>Resting Energy (kcal): <span>{{entry.kcal_resting}}</span></li>
+        <li>Total Energy (kcal): <span>{{entry.kcal_total}}</span></li>
+        <li>Steps: <span>{{entry.steps}}</span></li>
+        <li>Sound Max (dB): <span>{{entry.sound_max_db}}</span></li>
+        <li>High Temp (F): <span>{{entry.temp_high}}</span></li>
+        <li>Low Temp (F): <span>{{entry.temp_low}}</span></li>
+        <li>Avg Temp (F): <span>{{entry.temp_average}}</span></li>
+        <li>Wind (mph): <span>{{entry.wind}}</span></li>
+        <li>Rain (in): <span>{{entry.rain_inches}}</span></li>
+    </ul>
+</div>
 <div class="diary-page">
     <div class="text">
         <ng-container *ngIf="entry.diary_sad_points">
@@ -13,6 +43,8 @@
             <h3>Diary</h3>
             <p class="diary-text">{{entry.diary}}</p>
         </ng-container>
+        <h3>Generated Code Data</h3>
+        <pre class="code-array" id="code-area" (click)="selectAll()">{{stringify(getCodes(), undefined, 2)}}</pre>
     </div>
     <div class="codes">
         <h3>Code Entry/Edit</h3>
@@ -22,4 +54,3 @@
         </div>
     </div>
 </div>
-<pre class="code-array" id="code-area" (click)="selectAll()">{{stringify(getCodes(), undefined, 2)}}</pre>

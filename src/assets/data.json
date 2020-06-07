@@ -62,7 +62,7 @@
           "text": "slept great"
         },
         {
-          "code": "weekend",
+          "code": "plan",
           "text": "this weekend will clean old apartment"
         }
       ]
@@ -97,6 +97,14 @@
       "diary_sad_points": "Cleaning the old apartment took forever and many things did not want to clean. I cleaned it as much as I could but I fear it won't be good enough and they will charge me.",
       "diary": "Woke up feeling refreshed.  The new apartment doesn't have curtains yet so the morning sun is causing me to wake up early (around 7:30) which is a lot earlier than I normally wake up.  \n\nMy boyfriends meeting up with some of his friends today in Long Island City which is kind of concerning to me and I feel its not the best thing to do with the current COVID-19 situation.  Not as much because of the virus but drama with others who might hear or see them all together.  He made it home around midnight and was fine which is good. But I don't think the risk was worth it. But I didn't bring it up since I didn't want to cause drama.\n\nI had the first day of class today which was fun and I am excited for this logging and to learn about this process.  I was super excited to hear we are moving the class to Friday instead of Saturday.  So that was a major bonus for the day.\n\nAfter class I went to the old apartment and cleaned. It took about 6 hours of scrubbing and vacuuming and everything to get everything perfect.  There are still some areas that are just normal wear and a part of the floor that was not sealed and has darkened.  This is causing some stress thinking about the security deposit.  So hopefully all is good here, should know in a bout two weeks after the lease ends.\n\nOtherwise spent the day enjoying the sun (walking between the new and old apartment) and had a basic dinner.  \n\nAt the end of the day I noticed two yellow spots on my arm, realized it was bruises from carrying the heavy boxes earlier.  So need to be more careful in the future.  I did the move really cheap (only spent about $100 for the entire move).  So was happy about that but it did take some strain on me with carrying everything.",
       "codes": [
+        {
+          "code": "weekend",
+          "text": "Today was Saturday"
+        },
+        {
+          "code": "class",
+          "text": "Have INFO-608 class in morning"
+        },
         {
           "code": "fear",
           "text": "apartment not clean enough"
@@ -173,6 +181,10 @@
       "diary_sad_points": "Mom called that morning around 1am with drama at her apartment of the upstairs people having some domestic dispute and someone getting hurt. She called the police and was put on hold (Virginia Beach) and then it took over 30 minutes for the cops to come. That was ridiculous.  The people were drunk and someone got violent. The cops gave them a warning or something since the lady said it was her fault because she was drunk.  This was saddening and upsetting that people think its ever ok to get beat.",
       "diary": "Pretty basic day.  Watched TV all day and ate way too much. I felt bad about snacking all day. I did get exercise on the bike in. But the cheap bike I bought from Walmart when this lockdown stuff started is now down to the metal and making horrible sounds. Seems the pad that puts pressure on the wheel is completely rubbed off.  I was hoping it would at least last to the end of this lockdown when gyms reopen.\n\nWe took a nice walk down Hudson Riva park and enjoyed being out. Perfect weather.  \n\nToday was pretty basic. Didn't do much and just ate too much this made me feel depressed and also read some news on Apple News and it was all bad.  Lately it is getting a bit stir crazy staying inside.  Just basic stuff like going out to eat is starting to feel like such a distant memory and I need to go visit my mom when this is up.",
       "codes": [
+        {
+          "code": "weekend",
+          "text": "Today was Sunday"
+        },
         {
           "code": "drama",
           "text": "mom called about drama at her apartment at 1am"
@@ -410,6 +422,10 @@
       "diary": "Pretty normal day. Got a lot of work done and felt pretty accomplished.  My boyfriend was seeing his friend in Long Island City again so didn't do much at home.  Just watched TV and worked.  Work is going good on the new project and it is starting to come together nicely.  That night I did a video call with my mom to see her and put my dog on the phone and my mom noticed the red under her neck I looked closer and found it to be a bit bloody and trashy.  I don't know where the issue came from, but put some ointment on it to keep it from getting an infection and when I took her for a walk I made sure she didn't get any pressure from her harness while we walked.  Got her back and seemed happy but her neck was still sore. I am a bit worried about her and will have to keep an eye on it. I ordered some medicated shampoo for dog skin and hopefully that will make it better.  Will see...",
       "codes": [
         {
+          "code": "class",
+          "text": "Have INFO-608 class in afternoon"
+        },
+        {
           "code": "dog",
           "text": "found bad rash on dogs neck that was raw and bloody"
         },
@@ -542,6 +558,10 @@
       "diary": "Had class that morning and a Normal Work Day after that.  Both seem good. It feels weird that Monday is Memorial Day since every day feels like nothing.  Not much happened today other than normal stuff.  Time seems to be going by really fast, seems like I wake up, do stuff, exercise, go to bed.  I decided today to take a run outside and did 5 miles on the Hudson River Park which was really nice. It was pretty hot out there and worked up a lot of sweat which made it hard to breathe through the mask as it got wet.  I got back just in time for a meeting that got moved up and joined it while in the elevator; I felt accomplished that it was great timing. The rest of the day was basic and my leg was sore since I hadn't ran for a while.  ",
       "codes": [
         {
+          "code": "class",
+          "text": "Have INFO-608 class in morning"
+        },
+        {
           "code": "school",
           "text": "had class in morning"
         },
@@ -625,6 +645,10 @@
       "diary_sad_points": "",
       "diary": "Today was a basic day, watched TV and felt kind of bored.  Tried to find something new to watch on TV but couldn't figure out anything so just watched Bob's Burgers.  We went for a nice long walk with the dog but got caught in a little rain and hurried back.  Time keeps going by and the days seem to just go by instantly.  Feels so weird.  I feel like I am wasting so much life.  Went to Morton Williams and got some groceries, it seemed normal; everything was stocked and no wait for self checkout or registers.  Washed the dog today since she was starting to stink. We had some special shampoo we got on Amazon that was medicated that we hope will help with her rash under her neck.  Bathed her in the new apartment which was concerning, but we got her washed and dried her good so she didn't get the apartment messed up.  She is much cleaner and smells good.  By end of day her neck was looking better; will keep an eye on it and make sure she is good.",
       "codes": [
+        {
+          "code": "weekend",
+          "text": "Today was Saturday"
+        },
         {
           "code": "basic",
           "text": "today was a basic day"
@@ -710,6 +734,10 @@
       "diary": "Today was a pretty basic day. Didn't do much and did a little shopping on Target and Walmart to get some more stuff we need for the new apartment.  I think after this we should have everything we need for the new apartment.  Seems weird tomorrow is a holiday.  We decided to go get some vodka and rum from the cheap liquor store we like on 49th and 9th which is now a bit further from our new apartment. We tried the closer liquor stores but they were a bit more expensive.  So we took a nice walk down to it.  There was a lot of people out and congregating next to places getting food and hanging out. Seems people are really turning back to normal and not as worried as a two months ago.  We got to the store and it was empty so we walked around and got some Grey Goose, Bacardi, Sour Apple Schnapps and some Moscato.  Good deal on it, but it is amazing how much more expensive stuff is here than California.  For example Malibu was about $8 at Bevmo in Oakland but here it $25.  Seems crazy but does help avoid drinking as much since it costs so much.  We got back to our apartment and ordered some Chinese food at a place that sent us bad dumplings last week and said they would give us free $10 item this time.  We got some wontons in chili oil, but they were bad too. Seems this place does not do good on dumplings and wontons.  But they through in some chicken feet so Clancy was happy.  It was ok food. We probably won't get it again.  ",
       "codes": [
         {
+          "code": "weekend",
+          "text": "Today was Sunday"
+        },
+        {
           "code": "basic",
           "text": "today was a basic day"
         },
@@ -777,6 +805,10 @@
       "diary_sad_points": "Dealing with mom's move during the virus is turning into a lot of drama. Trying to be able to get up there to Troy (Albany, NY area) to check out the place and area before she moves.  We had to extend her current lease for a high fee for 3 months extra; which was annoying since we couldn't move in June as we planned.",
       "diary": "Today was a basic day. Talked to my mom a bit about how to handle her move and dealing with which apartments are the best ones we have found so far.  We have two top places in Troy, NY that is our main choice.  I am hoping to rent a car and drive up there and explore the apartment and area.  But we may have to do a blind move and just hope it all works out.  I also got some exercise today like normal; just the indoor bike. I miss the gym and being able to use better machines and using the elliptical.  I am kind of concerned with the indoor bike and the pressure on the crotch, so I prefer running or elliptical to keep pressure off of stuff.  I really love the new apartment since it has a washer and dryer which is great since I need to use it a lot for all the exercise and only having two bike shorts.  Today is Memorial Day and for dinner will get some American or Mexican food to celebrate. Hard to believe its summer time now and hopefully this virus stuff ends and I can start doing stuff more.  Its really annoying living in a great city and paying the premium but can't enjoy it...",
       "codes": [
+        {
+          "code": "holiday",
+          "text": "Today was Memorial Day (work holiday)"
+        },
         {
           "code": "drama",
           "text": "trying to get mom new apartment during virus is a lot of drama"
@@ -894,6 +926,10 @@
       "diary": "Not sure why but I felt kind of down today.  I got a lot of work done and felt accomplished; but because of that I didn't eat and around 9pm I needed to at least get some exercise in.  I finished 12 miles on the indoor bike and showered but it was so late I didn't want to eat so will just get some food tomorrow for lunch.  I sort of got upset because he was tossing my packages around and pushing on floor even though I have said several times he should pick them up to avoid scuffing the floor.  It is a small thing but I just feel it gets annoying and feels like he doesn't care.  \n\nI got a few packages, been waiting to get all of them from the move since the virus has caused the packages to get majorly delayed.  I got some Keurig pods but they only sent two boxes instead of three.  I also got a toolbox that seemed small and was really cheap (like $13) but turned out to be a giant toolbox way bigger than I thought it would be.  \n\nToday it just turned out to be lots of smaller things that just irritated me, and the lack of food probably didn't help and made me feel upset and depressed.",
       "codes": [
         {
+          "code": "class",
+          "text": "Have INFO-658 class in evening"
+        },
+        {
           "code": "annoyed",
           "text": "annoying small things you ask partner in relationship that they don't change"
         },
@@ -973,6 +1009,10 @@
       "diary_sad_points": "",
       "diary": "Was a pretty nice and calm day overall.  Got a lot fo work done and didn't have too many meetings.  Had class that afternoon which went well.  After class me and Clancy went for a long walk which was nice and stopped at the grocery store for some fruits.  We went down to the river and sat on a bench and just enjoyed looking out at the Hudson. It was nice and calm and quiet and just super relaxing.  Slight breeze made it perfect weather to just sit and enjoy.  Other than that it was just a normal day.  It is odd that I feel I don't do much anymore yet time is going by so fast. Seems I wake up around 9 or 10 and then in a blink it is around 11pm and going to bed.  The days really start to blend together.  ",
       "codes": [
+        {
+          "code": "class",
+          "text": "Have INFO-608 class in afternoon"
+        },
         {
           "code": "basic",
           "text": "was a pretty nice and calm day overall"
@@ -1110,6 +1150,10 @@
       "diary": "I woke up and finally thought of a solution, and like all solutions it involved pretty much deleting everything from the previous night.  I did that and hurried trying to get a build working before my Friday morning class started.  Anymore all my days blend together so I thought I didn't have anything since my watch said nothing planned but luckily I had set an alarm on my phone for 5 min prior to class start to ensure I don't forget.  But 10 minutes into class I got the build to pass and pushed the code up.  So happy.  Spent the rest of the time in class and then that day took it easy and didn't do too much work.  Tried out that app Drizly since had a $5 coupon code and it worked and was surprisingly quick. That night had an Amazon Prime delivery but it didn't go very well.  The bags arrived soaked (it did rain, but I assumed they would travel with them in containers or something).  Many of the bags just tore as lifted and some of the cracker boxes were soaked too and had to just tear them off and take out the bags inside.  Was missing a lot of items, not sure what happened and one bag was a bunch of fruit we didn't order...  It had our name on the bag so not sure what happened.  We contacted Amazon about the missing item and they refunded it and they didn't want back the items that were not ours.  Kind of a mess and hassle with Prime lately; I know a lot of crazy going on but not sure why Amazon having such drama. For Prime they limit numbers per delivery slot so not like an uptick in max delivery.  So not sure why they are having such problems, but they should consider this can really hurt their brand as they move forward as more and more push an anti-amazon feeling as it destroys local business.",
       "codes": [
         {
+          "code": "class",
+          "text": "Have INFO-608 class in morning"
+        },
+        {
           "code": "depressed",
           "text": "protests causing me to feel depressed"
         },
@@ -1186,6 +1230,10 @@
       "diary": "Today started off OK, spent the morning working on homework. Finished the homework and submitted it but the news was very depressing today.  Hearing about all the drama and violence, caused me to feel bad and feel a bit concerned when walking the dog around the neighborhood.  Things seem crazy and its concerning.  I talked to my mom and we have a plan for her move in August which is good and we hope that will all work out.  I hope that the destruction and craziness will end soon and no one else gets hurt.",
       "codes": [
         {
+          "code": "weekend",
+          "text": "Today was Saturday"
+        },
+        {
           "code": "depressed",
           "text": "lots of vandalism and looting and bad news in New York and back in Oakland"
         },
@@ -1257,6 +1305,10 @@
       "diary_sad_points": "The country being looted and destroyed and protests turning violent is really upsetting and makes you concerned when you are outside",
       "diary": "Things started to get a bit rough here in NYC and pictures from looting and violent clashes with police is concerning.  I have not seen anything on the west side where I am at, but from the news and pictures it is very concerning and makes me feel worried going outside.  Didn't do much today watched TV and started watching Central Park on Apple TV+ and Spaceforce on Netflix. Both seem really funny and I enjoyed them, will finish Spaceforce this week.",
       "codes": [
+        {
+          "code": "weekend",
+          "text": "Today was Sunday"
+        },
         {
           "code": "depressed",
           "text": "the looting and violence outside is really upsetting and fearful"
