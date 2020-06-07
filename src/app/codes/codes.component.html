@@ -1,0 +1,15 @@
+<a (click)="goHome($event)" class="nav-links" href="#">All entries</a>
+<h2>Codes analysis</h2>
+<h3>All codes ({{keys.length}})</h3>
+<div class="code-list">
+    <span *ngFor="let code of keys" class="code-examples">{{code}} x{{getItemsFromCode(code).length}}</span>
+</div>
+<h3>Code breakdown</h3>
+<div class="code-details" *ngFor="let code of keys">
+    <h4>{{code}}</h4>
+    <ul>
+        <li *ngFor="let entry of getItemsFromCode(code)">
+            <a href="#" (click)="goToEntry($event, entry)" title="View entry">{{entry}}</a>
+        </li>
+    </ul>
+</div>

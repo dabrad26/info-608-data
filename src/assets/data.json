@@ -1,0 +1,1370 @@
+[
+    {
+      "date": "5-15-20",
+      "scale": 5,
+      "day_type": "Relaxing day",
+      "household_problems": false,
+      "internal_news_bad_influence": false,
+      "external_news_bad_influence": false,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": true,
+      "got_outside": true,
+      "temp_high": 85,
+      "temp_low": 59,
+      "temp_average": 73.4,
+      "wind": 11.2,
+      "rain_inches": 0.01,
+      "heartrate_low": 56,
+      "heartrate_high": 154,
+      "heartrate_resting": 63,
+      "kcal_active": 1004,
+      "kcal_resting": 2357,
+      "kcal_total": 3361,
+      "exercise_time": 53,
+      "exercise_type": "Indoor Cycle",
+      "steps": 7526,
+      "sound_max_db": 93,
+      "diary_sad_points": "",
+      "diary": "It is Friday and that is a half day while COVID-19 is going on at work. So I did not have too much to do.  This week had been hectic with moving and I was exhausted and just spent the day relaxing on the couch watching TV.  Got my normal exercise at home and spent the day watching Bob's Burgers and tried the new show The Great on Hulu.  \n\nOne slightly irritating thing with the new apartment is I cannot get the shower head off and that means I cannot use my high power showered, which is making me feel greasy in my hair. But that is a small thing and I will get over it. \n\nI slept great due to being so exhausted.  So woke up ready for the day.  I think this weekend I will plan to get the old apartment cleaned which will be the final thing I need to do for the apartment and can turn over the keys.",
+      "codes": [
+        {
+          "code": "work",
+          "text": "did not have too much work to do"
+        },
+        {
+          "code": "moving",
+          "text": "week had been hectic with moving"
+        },
+        {
+          "code": "exhausted",
+          "text": "I was exhausted"
+        },
+        {
+          "code": "tv",
+          "text": "relaxing on couch watching tv"
+        },
+        {
+          "code": "exercise",
+          "text": "got my normal exercise at home"
+        },
+        {
+          "code": "irritated",
+          "text": "slightly irritating thing can't get shower head off"
+        },
+        {
+          "code": "slept",
+          "text": "slept great due to being exhausted"
+        },
+        {
+          "code": "exhausted",
+          "text": "slept great"
+        },
+        {
+          "code": "weekend",
+          "text": "this weekend will clean old apartment"
+        }
+      ]
+    },
+    {
+      "date": "5-16-20",
+      "scale": 4,
+      "day_type": "Physicaly Draining",
+      "household_problems": true,
+      "internal_news_bad_influence": false,
+      "external_news_bad_influence": false,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": true,
+      "got_outside": false,
+      "temp_high": 76,
+      "temp_low": 63,
+      "temp_average": 69.5,
+      "wind": 10.9,
+      "rain_inches": 0.03,
+      "heartrate_low": 61,
+      "heartrate_high": 150,
+      "heartrate_resting": 65,
+      "kcal_active": 927,
+      "kcal_resting": 2396,
+      "kcal_total": 3323,
+      "exercise_time": 34,
+      "exercise_type": "Moving",
+      "steps": 13608,
+      "sound_max_db": 101,
+      "diary_sad_points": "Cleaning the old apartment took forever and many things did not want to clean. I cleaned it as much as I could but I fear it won't be good enough and they will charge me.",
+      "diary": "Woke up feeling refreshed.  The new apartment doesn't have curtains yet so the morning sun is causing me to wake up early (around 7:30) which is a lot earlier than I normally wake up.  \n\nMy boyfriends meeting up with some of his friends today in Long Island City which is kind of concerning to me and I feel its not the best thing to do with the current COVID-19 situation.  Not as much because of the virus but drama with others who might hear or see them all together.  He made it home around midnight and was fine which is good. But I don't think the risk was worth it. But I didn't bring it up since I didn't want to cause drama.\n\nI had the first day of class today which was fun and I am excited for this logging and to learn about this process.  I was super excited to hear we are moving the class to Friday instead of Saturday.  So that was a major bonus for the day.\n\nAfter class I went to the old apartment and cleaned. It took about 6 hours of scrubbing and vacuuming and everything to get everything perfect.  There are still some areas that are just normal wear and a part of the floor that was not sealed and has darkened.  This is causing some stress thinking about the security deposit.  So hopefully all is good here, should know in a bout two weeks after the lease ends.\n\nOtherwise spent the day enjoying the sun (walking between the new and old apartment) and had a basic dinner.  \n\nAt the end of the day I noticed two yellow spots on my arm, realized it was bruises from carrying the heavy boxes earlier.  So need to be more careful in the future.  I did the move really cheap (only spent about $100 for the entire move).  So was happy about that but it did take some strain on me with carrying everything.",
+      "codes": [
+        {
+          "code": "fear",
+          "text": "apartment not clean enough"
+        },
+        {
+          "code": "money",
+          "text": "will charge me for not cleaning good enough"
+        },
+        {
+          "code": "wakeup",
+          "text": "woke up refreshed"
+        },
+        {
+          "code": "wakeup",
+          "text": "no curtains causing wake up early"
+        },
+        {
+          "code": "relationship",
+          "text": "concerned about boyfriend meeting friends"
+        },
+        {
+          "code": "risk",
+          "text": "meeting his friends not worth risk"
+        },
+        {
+          "code": "excited",
+          "text": "moving class to Friday instead of Saturday"
+        },
+        {
+          "code": "enjoy",
+          "text": "spend day enjoying the sun"
+        },
+        {
+          "code": "injury",
+          "text": "found bruises from carrying boxes"
+        },
+        {
+          "code": "money",
+          "text": "did move really cheap"
+        },
+        {
+          "code": "happy",
+          "text": "move was cheap"
+        }
+      ]
+    },
+    {
+      "date": "5-17-20",
+      "scale": 3,
+      "day_type": "Relaxing day",
+      "household_problems": false,
+      "internal_news_bad_influence": true,
+      "external_news_bad_influence": true,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": true,
+      "got_outside": true,
+      "temp_high": 68,
+      "temp_low": 55,
+      "temp_average": 59.5,
+      "wind": 9.9,
+      "rain_inches": 0,
+      "heartrate_low": 57,
+      "heartrate_high": 173,
+      "heartrate_resting": 69,
+      "kcal_active": 1268,
+      "kcal_resting": 2362,
+      "kcal_total": 3630,
+      "exercise_time": 53,
+      "exercise_type": "Indoor Cycle",
+      "steps": 10502,
+      "sound_max_db": 100,
+      "diary_sad_points": "Mom called that morning around 1am with drama at her apartment of the upstairs people having some domestic dispute and someone getting hurt. She called the police and was put on hold (Virginia Beach) and then it took over 30 minutes for the cops to come. That was ridiculous.  The people were drunk and someone got violent. The cops gave them a warning or something since the lady said it was her fault because she was drunk.  This was saddening and upsetting that people think its ever ok to get beat.",
+      "diary": "Pretty basic day.  Watched TV all day and ate way too much. I felt bad about snacking all day. I did get exercise on the bike in. But the cheap bike I bought from Walmart when this lockdown stuff started is now down to the metal and making horrible sounds. Seems the pad that puts pressure on the wheel is completely rubbed off.  I was hoping it would at least last to the end of this lockdown when gyms reopen.\n\nWe took a nice walk down Hudson Riva park and enjoyed being out. Perfect weather.  \n\nToday was pretty basic. Didn't do much and just ate too much this made me feel depressed and also read some news on Apple News and it was all bad.  Lately it is getting a bit stir crazy staying inside.  Just basic stuff like going out to eat is starting to feel like such a distant memory and I need to go visit my mom when this is up.",
+      "codes": [
+        {
+          "code": "drama",
+          "text": "mom called about drama at her apartment at 1am"
+        },
+        {
+          "code": "mom",
+          "text": "mom called about drama at her apartment at 1am"
+        },
+        {
+          "code": "irritated",
+          "text": "she said cops took over 30 minutes to show up"
+        },
+        {
+          "code": "basic",
+          "text": "pretty basic day"
+        },
+        {
+          "code": "tv",
+          "text": "watched tv all day"
+        },
+        {
+          "code": "eating",
+          "text": "ate way too much"
+        },
+        {
+          "code": "exercise",
+          "text": "got exercise on bike in"
+        },
+        {
+          "code": "irritated",
+          "text": "cheap bike from Walmart broke"
+        },
+        {
+          "code": "hope",
+          "text": "it would last until gyms reopen"
+        },
+        {
+          "code": "outside",
+          "text": "took a nice walk outside"
+        },
+        {
+          "code": "enjoy",
+          "text": "enjoyed being out"
+        },
+        {
+          "code": "depressed",
+          "text": "eating too much felt depressed"
+        },
+        {
+          "code": "news",
+          "text": "apple news only had bad stuff"
+        }
+      ]
+    },
+    {
+      "date": "5-18-20",
+      "scale": 4,
+      "day_type": "Intense Work Day",
+      "household_problems": false,
+      "internal_news_bad_influence": false,
+      "external_news_bad_influence": false,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": false,
+      "got_outside": false,
+      "temp_high": 66,
+      "temp_low": 55,
+      "temp_average": 59.3,
+      "wind": 10.1,
+      "rain_inches": 0,
+      "heartrate_low": 58,
+      "heartrate_high": 148,
+      "heartrate_resting": 72,
+      "kcal_active": 939,
+      "kcal_resting": 2333,
+      "kcal_total": 3272,
+      "exercise_time": 78,
+      "exercise_type": "Indoor Cycle",
+      "steps": 6604,
+      "sound_max_db": 93,
+      "diary_sad_points": "",
+      "diary": "Woke up thinking about work and had a plan for creating the class system in the new application I am working on.  After getting up I started writing the system and tests and it ended up taking all day.  Finally around 4pm of nothing but coding I had it stable and ready to push for review.  Unfortunately the people who should review never responded so it is kind of annoying that I worked to get this all ready but the other people are not online to do their part.  \n\nWorking all day I never got any food, so need to get a late dinner.  Got a workout on the bike in and showered and got dinner around 8:30. Probably will regret eating so late and will have a little bit of a headache.\n\nThe last week I have ordered lots of stuff on Amazon (since I just moved). But it has been irritating that everything is getting delayed. I would be ok with stuff taking longer but they say it will be here on Day X and then every time (if Amazon Logistics shipping) it says this item is delayed and will be here in another 2 days.  Then after 4 days it usually shows up.  It has been making it really hard to plan for the stuff I need to do for the new apartment.\n\nI spent all day working and feel exhausted and my wrists are starting to hurt. Will probably try and take tomorrow easy as long as not too much going on.  \n\nAnother small stresses is the payment for the Summer semester at Pratt.  My company shows it it is mailed out nearly a month ago but Pratt doesn't show the payment on my account which makes me nervous. I know a lot of stuff is going on so I emailed the Bursar hopefully they have the check and its not lost, since I don't know what kind of process a lost check is within IBM...",
+      "codes": [
+        {
+          "code": "work",
+          "text": "woke up thinking about work"
+        },
+        {
+          "code": "wakeup",
+          "text": "woke up thinking about work"
+        },
+        {
+          "code": "annoyed",
+          "text": "people who need to review not replying"
+        },
+        {
+          "code": "eating",
+          "text": "working all day and never got food so need late dinner"
+        },
+        {
+          "code": "injury",
+          "text": "got headache from lack of food"
+        },
+        {
+          "code": "regret",
+          "text": "will probably regret eating so late"
+        },
+        {
+          "code": "irritated",
+          "text": "amazon deliveries are all late"
+        },
+        {
+          "code": "drama",
+          "text": "it would be OK if they said delivery time initially but not just be late every time"
+        },
+        {
+          "code": "work",
+          "text": "spent all day working"
+        },
+        {
+          "code": "exhausted",
+          "text": "all day working made me exhausted"
+        },
+        {
+          "code": "injury",
+          "text": "my wrists are starting to hurt"
+        },
+        {
+          "code": "relax",
+          "text": "will try to take next two days off to relax"
+        },
+        {
+          "code": "fear",
+          "text": "pratt payment is not showing for summer, company mailed it but maybe lost"
+        }
+      ]
+    },
+    {
+      "date": "5-19-20",
+      "scale": 4,
+      "day_type": "Intense Work Day",
+      "household_problems": false,
+      "internal_news_bad_influence": false,
+      "external_news_bad_influence": false,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": false,
+      "got_outside": false,
+      "temp_high": 68,
+      "temp_low": 55,
+      "temp_average": 60.2,
+      "wind": 16.7,
+      "rain_inches": 0,
+      "heartrate_low": 66,
+      "heartrate_high": 174,
+      "heartrate_resting": 68,
+      "kcal_active": 1005,
+      "kcal_resting": 2344,
+      "kcal_total": 3349,
+      "exercise_time": 41,
+      "exercise_type": "Indoor Cycle",
+      "steps": 4165,
+      "sound_max_db": 92,
+      "diary_sad_points": "",
+      "diary": "Been working a lot and not taking much break.  Ended up with sore butt from sitting so long and using the exercise bike.  I got the exercise bike fixed which made me happy. But I ended up not doing it until the evening due to working so much.  Was a long day and had meetings from like 11-4 and then spent the rest of the time trying to get some new features in for the app I am working on.  I got the features and unit tests in and felt accomplished, but was brought down a bit finding out that another team is not pushing out as a high quality code as my team; I would like to get them on a higher level for better code quality and practices but some political issues are causing drama there on who owns that team.  I hope we can get that team better improved by working with some managers, so will see and have started to get those conversations started.  Working on gathering data on some other features and what is needed for that feature to move forward.",
+      "codes": [
+        {
+          "code": "work",
+          "text": "been working a lot and not taking breaks"
+        },
+        {
+          "code": "injury",
+          "text": "ended up with a sore butt from sitting so long and bike"
+        },
+        {
+          "code": "exercise",
+          "text": "bike hurt butt"
+        },
+        {
+          "code": "injury",
+          "text": "sitting and bike hurt butt"
+        },
+        {
+          "code": "exercise",
+          "text": "got bike fixed"
+        },
+        {
+          "code": "happy",
+          "text": "got bike fixed"
+        },
+        {
+          "code": "annoyed",
+          "text": "that another team is not pushing good quality code"
+        },
+        {
+          "code": "drama",
+          "text": "dealing with other teams code is drama from political standpoint"
+        },
+        {
+          "code": "hope",
+          "text": "other teams and our team can get on same page"
+        }
+      ]
+    },
+    {
+      "date": "5-20-20",
+      "scale": 4,
+      "day_type": "Normal Work Day",
+      "household_problems": true,
+      "internal_news_bad_influence": false,
+      "external_news_bad_influence": false,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": false,
+      "got_outside": false,
+      "temp_high": 64,
+      "temp_low": 51,
+      "temp_average": 56.5,
+      "wind": 12.7,
+      "rain_inches": 0,
+      "heartrate_low": 63,
+      "heartrate_high": 173,
+      "heartrate_resting": 67,
+      "kcal_active": 1041,
+      "kcal_resting": 2368,
+      "kcal_total": 3409,
+      "exercise_time": 50,
+      "exercise_type": "Indoor Cycle",
+      "steps": 4627,
+      "sound_max_db": 84,
+      "diary_sad_points": "Found a bad rash on dog under neck and dealt with that.  It was pretty raw and had some blood.  Put some ointment on it and had to keep up with her so she didn't put pressure on her neck during the walk.",
+      "diary": "Pretty normal day. Got a lot of work done and felt pretty accomplished.  My boyfriend was seeing his friend in Long Island City again so didn't do much at home.  Just watched TV and worked.  Work is going good on the new project and it is starting to come together nicely.  That night I did a video call with my mom to see her and put my dog on the phone and my mom noticed the red under her neck I looked closer and found it to be a bit bloody and trashy.  I don't know where the issue came from, but put some ointment on it to keep it from getting an infection and when I took her for a walk I made sure she didn't get any pressure from her harness while we walked.  Got her back and seemed happy but her neck was still sore. I am a bit worried about her and will have to keep an eye on it. I ordered some medicated shampoo for dog skin and hopefully that will make it better.  Will see...",
+      "codes": [
+        {
+          "code": "dog",
+          "text": "found bad rash on dogs neck that was raw and bloody"
+        },
+        {
+          "code": "basic",
+          "text": "normal day"
+        },
+        {
+          "code": "work",
+          "text": "got a lot of work done"
+        },
+        {
+          "code": "accomplished",
+          "text": "felt accomplished from getting work done"
+        },
+        {
+          "code": "work",
+          "text": "is going good and new project is coming together"
+        },
+        {
+          "code": "mom",
+          "text": "did a video call with mom and she noticed dog neck injury"
+        },
+        {
+          "code": "dog",
+          "text": "seemed happy at end of day"
+        },
+        {
+          "code": "fear",
+          "text": "worried about dog neck but will get keep monitoring"
+        }
+      ]
+    },
+    {
+      "date": "5-21-20",
+      "scale": 2,
+      "day_type": "Normal Work Day",
+      "household_problems": false,
+      "internal_news_bad_influence": true,
+      "external_news_bad_influence": true,
+      "work_problems": true,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": true,
+      "got_outside": true,
+      "temp_high": 66,
+      "temp_low": 48,
+      "temp_average": 55.6,
+      "wind": 7.3,
+      "rain_inches": 0,
+      "heartrate_low": 58,
+      "heartrate_high": 161,
+      "heartrate_resting": 69,
+      "kcal_active": 1139,
+      "kcal_resting": 2412,
+      "kcal_total": 3551,
+      "exercise_time": 58,
+      "exercise_type": "Indoor Cycle",
+      "steps": 10242,
+      "sound_max_db": 99,
+      "diary_sad_points": "Found out that a major massive layoff was happening at work.  This was stressful and saddening thinking about my coworkers and friends who might lose their job. Our group was told we are not part of it and it seems those who are know about it already (based on online forums like Reddit and Facebook). But still stressful thinking about it and saddening thinking about those people trying to get new jobs in this current environment.",
+      "diary": "The day started off nice.  Took dog on long walk down the Hudson River Park which was nice. Her neck seems better from before but still a little raw so I made sure her harness wasn't near it.  When back at home I went to my old apartment and returned the keys so the old apartment is done now.  Hopefully all is good with the security deposit and no drama.  Around the end of the day I saw an odd meeting from my boss (with lots of people in it) and he posted that he wanted to discuss what is going as we might have heard about layoffs within our company. I had not heard of any, so googled it and quickly found loads of posts.  The meeting indicated we were all safe and would not be laid off. But it is stressful and saddening thinking about the other people who did get laid off and what they are going to do with the current environment. Our boss also mentioned how tough it is for H1B employees who have to find a new job in like 60 days or lose their visa.  This is crazy and I guess in the next few days we will find out more about the people in our larger group who are part of this.  It is very sad and ruined the day.  I hope things get better but with COVID-19 and this I feel terrible for the people.",
+      "codes": [
+        {
+          "code": "fear",
+          "text": "found out major layoffs happening at work"
+        },
+        {
+          "code": "work",
+          "text": "major layoffs happening"
+        },
+        {
+          "code": "depressed",
+          "text": "sad thinking about my coworkers and friends losing jobs"
+        },
+        {
+          "code": "outside",
+          "text": "took dog on long walk outside down the Hudson"
+        },
+        {
+          "code": "dog",
+          "text": "took dog on long walk outside down the Hudson"
+        },
+        {
+          "code": "moving",
+          "text": "took back keys to old apartment"
+        },
+        {
+          "code": "hope",
+          "text": "all is good with security deposit"
+        },
+        {
+          "code": "money",
+          "text": "hope all is good with security deposit"
+        },
+        {
+          "code": "depressed",
+          "text": "the layoff news ruined the day and caused sadness"
+        }
+      ]
+    },
+    {
+      "date": "5-22-20",
+      "scale": 5,
+      "day_type": "Normal Work Day",
+      "household_problems": false,
+      "internal_news_bad_influence": false,
+      "external_news_bad_influence": false,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": false,
+      "got_outside": true,
+      "temp_high": 76,
+      "temp_low": 56,
+      "temp_average": 65.7,
+      "wind": 6.9,
+      "rain_inches": 0,
+      "heartrate_low": 64,
+      "heartrate_high": 195,
+      "heartrate_resting": 67,
+      "kcal_active": 1125,
+      "kcal_resting": 2268,
+      "kcal_total": 3393,
+      "exercise_time": 72,
+      "exercise_type": "Outdoor Run",
+      "steps": 11260,
+      "sound_max_db": 92,
+      "diary_sad_points": "",
+      "diary": "Had class that morning and a Normal Work Day after that.  Both seem good. It feels weird that Monday is Memorial Day since every day feels like nothing.  Not much happened today other than normal stuff.  Time seems to be going by really fast, seems like I wake up, do stuff, exercise, go to bed.  I decided today to take a run outside and did 5 miles on the Hudson River Park which was really nice. It was pretty hot out there and worked up a lot of sweat which made it hard to breathe through the mask as it got wet.  I got back just in time for a meeting that got moved up and joined it while in the elevator; I felt accomplished that it was great timing. The rest of the day was basic and my leg was sore since I hadn't ran for a while.  ",
+      "codes": [
+        {
+          "code": "school",
+          "text": "had class in morning"
+        },
+        {
+          "code": "basic",
+          "text": "after class was a normal work day"
+        },
+        {
+          "code": "weird",
+          "text": "that Memorial Day is Monday since it does not feel like holiday"
+        },
+        {
+          "code": "basic",
+          "text": "not much happened other than normal stuff"
+        },
+        {
+          "code": "time",
+          "text": "seems to be going by fast"
+        },
+        {
+          "code": "exercise",
+          "text": "day seems to be wake up, exercise, go to bed"
+        },
+        {
+          "code": "wakeup",
+          "text": "day seems to be wake up, exercise, go to bed"
+        },
+        {
+          "code": "outside",
+          "text": "took a run outside did 5 miles. really nice"
+        },
+        {
+          "code": "exercise",
+          "text": "took a run outside did 5 miles. really nice"
+        },
+        {
+          "code": "happy",
+          "text": "took a run outside did 5 miles. really nice"
+        },
+        {
+          "code": "accomplished",
+          "text": "felt accomplished that I got back from run just in time for work meeting"
+        },
+        {
+          "code": "work",
+          "text": "felt accomplished that I got back from run just in time for work meeting"
+        },
+        {
+          "code": "injury",
+          "text": "legs sore since I have not run in a while"
+        }
+      ]
+    },
+    {
+      "date": "5-23-20",
+      "scale": 5,
+      "day_type": "Relaxing day",
+      "household_problems": false,
+      "internal_news_bad_influence": false,
+      "external_news_bad_influence": false,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": false,
+      "got_outside": true,
+      "temp_high": 66,
+      "temp_low": 57,
+      "temp_average": 62.1,
+      "wind": 8.6,
+      "rain_inches": 0.01,
+      "heartrate_low": 57,
+      "heartrate_high": 168,
+      "heartrate_resting": 63,
+      "kcal_active": 1131,
+      "kcal_resting": 2380,
+      "kcal_total": 3511,
+      "exercise_time": 57,
+      "exercise_type": "Indoor Cycle",
+      "steps": 8929,
+      "sound_max_db": 92,
+      "diary_sad_points": "",
+      "diary": "Today was a basic day, watched TV and felt kind of bored.  Tried to find something new to watch on TV but couldn't figure out anything so just watched Bob's Burgers.  We went for a nice long walk with the dog but got caught in a little rain and hurried back.  Time keeps going by and the days seem to just go by instantly.  Feels so weird.  I feel like I am wasting so much life.  Went to Morton Williams and got some groceries, it seemed normal; everything was stocked and no wait for self checkout or registers.  Washed the dog today since she was starting to stink. We had some special shampoo we got on Amazon that was medicated that we hope will help with her rash under her neck.  Bathed her in the new apartment which was concerning, but we got her washed and dried her good so she didn't get the apartment messed up.  She is much cleaner and smells good.  By end of day her neck was looking better; will keep an eye on it and make sure she is good.",
+      "codes": [
+        {
+          "code": "basic",
+          "text": "today was a basic day"
+        },
+        {
+          "code": "tv",
+          "text": "watched tv and felt bored"
+        },
+        {
+          "code": "bored",
+          "text": "felt bored"
+        },
+        {
+          "code": "outside",
+          "text": "went for a nice long walk"
+        },
+        {
+          "code": "rain",
+          "text": "got caught in a little rain and hurried back"
+        },
+        {
+          "code": "dog",
+          "text": "went on long walk with dog"
+        },
+        {
+          "code": "time",
+          "text": "days go by instantly"
+        },
+        {
+          "code": "weird",
+          "text": "time passing feels weird"
+        },
+        {
+          "code": "waste",
+          "text": "feels like wasting life"
+        },
+        {
+          "code": "basic",
+          "text": "went to Morton Williams and got groceries it seemed normal and stocked"
+        },
+        {
+          "code": "dog",
+          "text": "washed the dog since she was starting to stink"
+        },
+        {
+          "code": "dog",
+          "text": "used special shampoo for her rash"
+        },
+        {
+          "code": "dog",
+          "text": "neck is looking back to normal"
+        }
+      ]
+    },
+    {
+      "date": "5-24-20",
+      "scale": 5,
+      "day_type": "Relaxing day",
+      "household_problems": false,
+      "internal_news_bad_influence": false,
+      "external_news_bad_influence": false,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": true,
+      "got_outside": true,
+      "temp_high": 68,
+      "temp_low": 52,
+      "temp_average": 59.5,
+      "wind": 12.1,
+      "rain_inches": 0.33,
+      "heartrate_low": 45,
+      "heartrate_high": 161,
+      "heartrate_resting": 59,
+      "kcal_active": 1144,
+      "kcal_resting": 2300,
+      "kcal_total": 3444,
+      "exercise_time": 62,
+      "exercise_type": "Indoor Cycle",
+      "steps": 10197,
+      "sound_max_db": 90,
+      "diary_sad_points": "",
+      "diary": "Today was a pretty basic day. Didn't do much and did a little shopping on Target and Walmart to get some more stuff we need for the new apartment.  I think after this we should have everything we need for the new apartment.  Seems weird tomorrow is a holiday.  We decided to go get some vodka and rum from the cheap liquor store we like on 49th and 9th which is now a bit further from our new apartment. We tried the closer liquor stores but they were a bit more expensive.  So we took a nice walk down to it.  There was a lot of people out and congregating next to places getting food and hanging out. Seems people are really turning back to normal and not as worried as a two months ago.  We got to the store and it was empty so we walked around and got some Grey Goose, Bacardi, Sour Apple Schnapps and some Moscato.  Good deal on it, but it is amazing how much more expensive stuff is here than California.  For example Malibu was about $8 at Bevmo in Oakland but here it $25.  Seems crazy but does help avoid drinking as much since it costs so much.  We got back to our apartment and ordered some Chinese food at a place that sent us bad dumplings last week and said they would give us free $10 item this time.  We got some wontons in chili oil, but they were bad too. Seems this place does not do good on dumplings and wontons.  But they through in some chicken feet so Clancy was happy.  It was ok food. We probably won't get it again.  ",
+      "codes": [
+        {
+          "code": "basic",
+          "text": "today was a basic day"
+        },
+        {
+          "code": "moving",
+          "text": "did some online shopping at target and Walmart for stuff needed for new apartment"
+        },
+        {
+          "code": "outside",
+          "text": "took a long walk to the cheaper liquor store"
+        },
+        {
+          "code": "money",
+          "text": "we tried the closer liquor stores but they were expensive"
+        },
+        {
+          "code": "normal",
+          "text": "lots of people out things seemed a bit normal"
+        },
+        {
+          "code": "money",
+          "text": "amazing how much more expensive alcohol is in New York vs California"
+        },
+        {
+          "code": "depressed",
+          "text": "Chinese place delivered some bad dumplings"
+        },
+        {
+          "code": "eating",
+          "text": "got Chinese delivery but food was not great"
+        },
+        {
+          "code": "basic",
+          "text": "it was ok food"
+        }
+      ]
+    },
+    {
+      "date": "5-25-20",
+      "scale": 3,
+      "day_type": "Physicaly Draining",
+      "household_problems": false,
+      "internal_news_bad_influence": true,
+      "external_news_bad_influence": false,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": false,
+      "got_outside": false,
+      "temp_high": 66,
+      "temp_low": 56,
+      "temp_average": 59.9,
+      "wind": 9.6,
+      "rain_inches": 0.01,
+      "heartrate_low": 48,
+      "heartrate_high": 156,
+      "heartrate_resting": 63,
+      "kcal_active": 1056,
+      "kcal_resting": 2351,
+      "kcal_total": 3407,
+      "exercise_time": 50,
+      "exercise_type": "Indoor Cycle",
+      "steps": 6852,
+      "sound_max_db": 94,
+      "diary_sad_points": "Dealing with mom's move during the virus is turning into a lot of drama. Trying to be able to get up there to Troy (Albany, NY area) to check out the place and area before she moves.  We had to extend her current lease for a high fee for 3 months extra; which was annoying since we couldn't move in June as we planned.",
+      "diary": "Today was a basic day. Talked to my mom a bit about how to handle her move and dealing with which apartments are the best ones we have found so far.  We have two top places in Troy, NY that is our main choice.  I am hoping to rent a car and drive up there and explore the apartment and area.  But we may have to do a blind move and just hope it all works out.  I also got some exercise today like normal; just the indoor bike. I miss the gym and being able to use better machines and using the elliptical.  I am kind of concerned with the indoor bike and the pressure on the crotch, so I prefer running or elliptical to keep pressure off of stuff.  I really love the new apartment since it has a washer and dryer which is great since I need to use it a lot for all the exercise and only having two bike shorts.  Today is Memorial Day and for dinner will get some American or Mexican food to celebrate. Hard to believe its summer time now and hopefully this virus stuff ends and I can start doing stuff more.  Its really annoying living in a great city and paying the premium but can't enjoy it...",
+      "codes": [
+        {
+          "code": "drama",
+          "text": "trying to get mom new apartment during virus is a lot of drama"
+        },
+        {
+          "code": "mom",
+          "text": "trying to get mom new apartment during virus is a lot of drama"
+        },
+        {
+          "code": "money",
+          "text": "had to extend mom lease by three month at a high price"
+        },
+        {
+          "code": "annoyed",
+          "text": "mom lease three month extension was annoying"
+        },
+        {
+          "code": "basic",
+          "text": "today was a basic day"
+        },
+        {
+          "code": "mom",
+          "text": "talked to my mom a bit about the move"
+        },
+        {
+          "code": "hope",
+          "text": "to rent a car and drive up their and check it out"
+        },
+        {
+          "code": "annoyed",
+          "text": "might not be able to see apartment prior to move in due to virus"
+        },
+        {
+          "code": "exercise",
+          "text": "got some exercise today like normal"
+        },
+        {
+          "code": "basic",
+          "text": "got exercise in"
+        },
+        {
+          "code": "miss",
+          "text": "I miss the gym and the better machines"
+        },
+        {
+          "code": "fear",
+          "text": "I fear the pressure from the indoor bike on the crotch"
+        },
+        {
+          "code": "injury",
+          "text": "concern over pressure on crotch from bike seat"
+        },
+        {
+          "code": "happy",
+          "text": "I really love the new apartment"
+        },
+        {
+          "code": "excited",
+          "text": "to have our own washer and dryer"
+        },
+        {
+          "code": "exercise",
+          "text": "washer and dryer is nice since workout a lot"
+        },
+        {
+          "code": "eating",
+          "text": "got Mexican food for the holiday"
+        },
+        {
+          "code": "weird",
+          "text": "hard to believe it is summer now"
+        },
+        {
+          "code": "hope",
+          "text": "this virus stuff ends soon so can enjoy summer"
+        },
+        {
+          "code": "annoyed",
+          "text": "it is annoying o live in a great city and pay the premium but not be able to use it"
+        },
+        {
+          "code": "money",
+          "text": "it is annoying o live in a great city and pay the premium but not be able to use it"
+        }
+      ]
+    },
+    {
+      "date": "5-26-20",
+      "scale": 2,
+      "day_type": "Intense Work Day",
+      "household_problems": false,
+      "internal_news_bad_influence": false,
+      "external_news_bad_influence": false,
+      "work_problems": false,
+      "relationship_problems": true,
+      "exercised": true,
+      "consumed_alchol": false,
+      "got_outside": false,
+      "temp_high": 76,
+      "temp_low": 58,
+      "temp_average": 63.3,
+      "wind": 6.4,
+      "rain_inches": 0,
+      "heartrate_low": 59,
+      "heartrate_high": 157,
+      "heartrate_resting": 66,
+      "kcal_active": 905,
+      "kcal_resting": 2304,
+      "kcal_total": 3209,
+      "exercise_time": 60,
+      "exercise_type": "Indoor Cycle",
+      "steps": 3970,
+      "sound_max_db": 91,
+      "diary_sad_points": "Just small things that are getting annoying, that I have asked about and he doesn't change.  It is a silly thing but putting dishes in dishwasher and not putting shampoo upside down since it leaks out",
+      "diary": "Not sure why but I felt kind of down today.  I got a lot of work done and felt accomplished; but because of that I didn't eat and around 9pm I needed to at least get some exercise in.  I finished 12 miles on the indoor bike and showered but it was so late I didn't want to eat so will just get some food tomorrow for lunch.  I sort of got upset because he was tossing my packages around and pushing on floor even though I have said several times he should pick them up to avoid scuffing the floor.  It is a small thing but I just feel it gets annoying and feels like he doesn't care.  \n\nI got a few packages, been waiting to get all of them from the move since the virus has caused the packages to get majorly delayed.  I got some Keurig pods but they only sent two boxes instead of three.  I also got a toolbox that seemed small and was really cheap (like $13) but turned out to be a giant toolbox way bigger than I thought it would be.  \n\nToday it just turned out to be lots of smaller things that just irritated me, and the lack of food probably didn't help and made me feel upset and depressed.",
+      "codes": [
+        {
+          "code": "annoyed",
+          "text": "annoying small things you ask partner in relationship that they don't change"
+        },
+        {
+          "code": "relationship",
+          "text": "annoying small things you ask partner in relationship that they don't change"
+        },
+        {
+          "code": "depressed",
+          "text": "not sure why but felt down today"
+        },
+        {
+          "code": "work",
+          "text": "got a lot of work done"
+        },
+        {
+          "code": "accomplished",
+          "text": "got a lot of work done and felt accomplished"
+        },
+        {
+          "code": "eating",
+          "text": "but because of a lot of work did not eat until 9pm"
+        },
+        {
+          "code": "exercise",
+          "text": "worked all day but still need to get some exercise in"
+        },
+        {
+          "code": "exercise",
+          "text": "did 12 miles on indoor bike"
+        },
+        {
+          "code": "eating",
+          "text": "did not eat since after exercise It was so late"
+        },
+        {
+          "code": "irritated",
+          "text": "got irritated from boyfriend for pushing package around on floor and scuffing it"
+        },
+        {
+          "code": "annoyed",
+          "text": "missing item in package that was delivered"
+        },
+        {
+          "code": "depressed",
+          "text": "today just had a lot of small irritants and the lack of food probably didn't help"
+        }
+      ]
+    },
+    {
+      "date": "5-27-20",
+      "scale": 4,
+      "day_type": "Normal Work Day",
+      "household_problems": false,
+      "internal_news_bad_influence": false,
+      "external_news_bad_influence": false,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": false,
+      "got_outside": true,
+      "temp_high": 78,
+      "temp_low": 60,
+      "temp_average": 65.5,
+      "wind": 7.2,
+      "rain_inches": 0,
+      "heartrate_low": 61,
+      "heartrate_high": 163,
+      "heartrate_resting": 64,
+      "kcal_active": 946,
+      "kcal_resting": 2297,
+      "kcal_total": 3243,
+      "exercise_time": 62,
+      "exercise_type": "Indoor Cycle",
+      "steps": 5281,
+      "sound_max_db": 92,
+      "diary_sad_points": "",
+      "diary": "Was a pretty nice and calm day overall.  Got a lot fo work done and didn't have too many meetings.  Had class that afternoon which went well.  After class me and Clancy went for a long walk which was nice and stopped at the grocery store for some fruits.  We went down to the river and sat on a bench and just enjoyed looking out at the Hudson. It was nice and calm and quiet and just super relaxing.  Slight breeze made it perfect weather to just sit and enjoy.  Other than that it was just a normal day.  It is odd that I feel I don't do much anymore yet time is going by so fast. Seems I wake up around 9 or 10 and then in a blink it is around 11pm and going to bed.  The days really start to blend together.  ",
+      "codes": [
+        {
+          "code": "basic",
+          "text": "was a pretty nice and calm day overall"
+        },
+        {
+          "code": "work",
+          "text": "got a lot of work done and not too many meetings"
+        },
+        {
+          "code": "school",
+          "text": "afternoon class that day and it went well"
+        },
+        {
+          "code": "outside",
+          "text": "me and Clancy took long walk which was nice"
+        },
+        {
+          "code": "eating",
+          "text": "stopped and got some fruit at the store"
+        },
+        {
+          "code": "outside",
+          "text": "at night went down to river and just sat and watched the water"
+        },
+        {
+          "code": "happy",
+          "text": "perfect weather and super relaxing for being outside"
+        },
+        {
+          "code": "relax",
+          "text": "perfect weather and super relaxing for being outside"
+        },
+        {
+          "code": "basic",
+          "text": "just a normal day"
+        },
+        {
+          "code": "time",
+          "text": "it is odd I don't do much in the day but time just flies by"
+        },
+        {
+          "code": "weird",
+          "text": "it is odd I don't do much in the day but time just flies by"
+        }
+      ]
+    },
+    {
+      "date": "5-28-20",
+      "scale": 3,
+      "day_type": "Intense Work Day",
+      "household_problems": false,
+      "internal_news_bad_influence": false,
+      "external_news_bad_influence": false,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": false,
+      "got_outside": false,
+      "temp_high": 76,
+      "temp_low": 63,
+      "temp_average": 68,
+      "wind": 10.2,
+      "rain_inches": 0,
+      "heartrate_low": 57,
+      "heartrate_high": 167,
+      "heartrate_resting": 60,
+      "kcal_active": 946,
+      "kcal_resting": 2311,
+      "kcal_total": 3257,
+      "exercise_time": 51,
+      "exercise_type": "Indoor Cycle",
+      "steps": 1705,
+      "sound_max_db": 91,
+      "diary_sad_points": "",
+      "diary": "Ended up working like crazy today. When I woke up I had a solution in my mind on how to deal with a file transfer problem and just got up and instantly started working.  Working on this problem spent most of the day and even missed a meeting since I lost track of time; which happens sometimes when I get really into writing code. But I finally got the problem fixed and then like 5 minutes later someone messages me to remind me of another meeting. I jump on that meeting and we start debugging a HTTP transfer server issue and we come up with a good plan. That evening I start thinking more and more about it and get my laptop and try to make it work.  Around midnight I gave up and posted what I had (only one part was working; I felt a little bit disappointed and maybe after some sleep I will have a solution.). At night I just lay there thinking about the problem and trying to figure out a solution, but I do finally get to sleep.",
+      "codes": [
+        {
+          "code": "work",
+          "text": "ended up working like crazy today"
+        },
+        {
+          "code": "wakeup",
+          "text": "when I woke up I had a solution for a work problem in my head"
+        },
+        {
+          "code": "wakeup",
+          "text": "just got out of bed and started working"
+        },
+        {
+          "code": "time",
+          "text": "lost track of time and even missed some meetings"
+        },
+        {
+          "code": "work",
+          "text": "ended up working till midnight because could not stop thinking about problem"
+        },
+        {
+          "code": "annoyed",
+          "text": "ended up going to sleep with one problem left since could not figure it out"
+        },
+        {
+          "code": "slept",
+          "text": "laid in bed thinking about work problem trying to solve, but eventually fell asleep"
+        }
+      ]
+    },
+    {
+      "date": "5-29-20",
+      "scale": 4,
+      "day_type": "Intense Work Day",
+      "household_problems": false,
+      "internal_news_bad_influence": false,
+      "external_news_bad_influence": true,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": false,
+      "got_outside": false,
+      "temp_high": 81,
+      "temp_low": 65,
+      "temp_average": 71.4,
+      "wind": 9.9,
+      "rain_inches": 0,
+      "heartrate_low": 56,
+      "heartrate_high": 151,
+      "heartrate_resting": 60,
+      "kcal_active": 977,
+      "kcal_resting": 2357,
+      "kcal_total": 3334,
+      "exercise_time": 59,
+      "exercise_type": "Indoor Cycle",
+      "steps": 6267,
+      "sound_max_db": 90,
+      "diary_sad_points": "Hearing about all the protests and drama around the Minneapolis thing. Because of this Clancy had to come home early from his friend's place in Queens since they said they were concerned about planned protests",
+      "diary": "I woke up and finally thought of a solution, and like all solutions it involved pretty much deleting everything from the previous night.  I did that and hurried trying to get a build working before my Friday morning class started.  Anymore all my days blend together so I thought I didn't have anything since my watch said nothing planned but luckily I had set an alarm on my phone for 5 min prior to class start to ensure I don't forget.  But 10 minutes into class I got the build to pass and pushed the code up.  So happy.  Spent the rest of the time in class and then that day took it easy and didn't do too much work.  Tried out that app Drizly since had a $5 coupon code and it worked and was surprisingly quick. That night had an Amazon Prime delivery but it didn't go very well.  The bags arrived soaked (it did rain, but I assumed they would travel with them in containers or something).  Many of the bags just tore as lifted and some of the cracker boxes were soaked too and had to just tear them off and take out the bags inside.  Was missing a lot of items, not sure what happened and one bag was a bunch of fruit we didn't order...  It had our name on the bag so not sure what happened.  We contacted Amazon about the missing item and they refunded it and they didn't want back the items that were not ours.  Kind of a mess and hassle with Prime lately; I know a lot of crazy going on but not sure why Amazon having such drama. For Prime they limit numbers per delivery slot so not like an uptick in max delivery.  So not sure why they are having such problems, but they should consider this can really hurt their brand as they move forward as more and more push an anti-amazon feeling as it destroys local business.",
+      "codes": [
+        {
+          "code": "depressed",
+          "text": "protests causing me to feel depressed"
+        },
+        {
+          "code": "wakeup",
+          "text": "woke up with solution to work problem"
+        },
+        {
+          "code": "work",
+          "text": "after waking up with solution pretty much had to start over "
+        },
+        {
+          "code": "school",
+          "text": "was hurrying work to finish before school started this morning"
+        },
+        {
+          "code": "time",
+          "text": "anymore days all blur together and I rely on calendar"
+        },
+        {
+          "code": "relax",
+          "text": "took it easy after class and relaxed"
+        },
+        {
+          "code": "money",
+          "text": "tried Drizly since had coupon"
+        },
+        {
+          "code": "annoyed",
+          "text": "amazon prime delivery was bad, it was raining and they let everything get soaked"
+        },
+        {
+          "code": "rain",
+          "text": "all of grocery delivery were soaked and cardboard and bags ruined"
+        },
+        {
+          "code": "annoyed",
+          "text": "amazon missing several items in order"
+        },
+        {
+          "code": "drama",
+          "text": "not sure why amazon has so much drama lately"
+        }
+      ]
+    },
+    {
+      "date": "5-30-20",
+      "scale": 2,
+      "day_type": "Relaxing day",
+      "household_problems": false,
+      "internal_news_bad_influence": false,
+      "external_news_bad_influence": true,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": true,
+      "got_outside": false,
+      "temp_high": 83,
+      "temp_low": 66,
+      "temp_average": 73.7,
+      "wind": 11.1,
+      "rain_inches": 0.01,
+      "heartrate_low": 55,
+      "heartrate_high": 159,
+      "heartrate_resting": 60,
+      "kcal_active": 1073,
+      "kcal_resting": 2356,
+      "kcal_total": 3429,
+      "exercise_time": 56,
+      "exercise_type": "Indoor Cycle",
+      "steps": 8156,
+      "sound_max_db": 95,
+      "diary_sad_points": "Lots of vandalism and looting and death in the news here in NYC and back in Oakland and San Fransisco.  Very saddening to see this.",
+      "diary": "Today started off OK, spent the morning working on homework. Finished the homework and submitted it but the news was very depressing today.  Hearing about all the drama and violence, caused me to feel bad and feel a bit concerned when walking the dog around the neighborhood.  Things seem crazy and its concerning.  I talked to my mom and we have a plan for her move in August which is good and we hope that will all work out.  I hope that the destruction and craziness will end soon and no one else gets hurt.",
+      "codes": [
+        {
+          "code": "depressed",
+          "text": "lots of vandalism and looting and bad news in New York and back in Oakland"
+        },
+        {
+          "code": "basic",
+          "text": "today started OK"
+        },
+        {
+          "code": "school",
+          "text": "spent the morning working on homework"
+        },
+        {
+          "code": "depressed",
+          "text": "the news was very depressing"
+        },
+        {
+          "code": "news",
+          "text": "the news was very depressing"
+        },
+        {
+          "code": "fear",
+          "text": "the news made me feel concerned about walking the dog outside"
+        },
+        {
+          "code": "dog",
+          "text": "concern over walking the dog with the current looting and drama"
+        },
+        {
+          "code": "mom",
+          "text": "we have a plan for my mom's move in august"
+        },
+        {
+          "code": "moving",
+          "text": "my mom is now planned to move in August"
+        },
+        {
+          "code": "hope",
+          "text": "I hope that all this looting and protesting can end soon without more people getting hurt"
+        }
+      ]
+    },
+    {
+      "date": "5-31-20",
+      "scale": 2,
+      "day_type": "Relaxing day",
+      "household_problems": false,
+      "internal_news_bad_influence": false,
+      "external_news_bad_influence": true,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": false,
+      "got_outside": false,
+      "temp_high": 70,
+      "temp_low": 59,
+      "temp_average": 64.5,
+      "wind": 15.8,
+      "rain_inches": 0,
+      "heartrate_low": 54,
+      "heartrate_high": 176,
+      "heartrate_resting": 58,
+      "kcal_active": 1117,
+      "kcal_resting": 2346,
+      "kcal_total": 3463,
+      "exercise_time": 52,
+      "exercise_type": "Indoor Cycle",
+      "steps": 6575,
+      "sound_max_db": 97,
+      "diary_sad_points": "The country being looted and destroyed and protests turning violent is really upsetting and makes you concerned when you are outside",
+      "diary": "Things started to get a bit rough here in NYC and pictures from looting and violent clashes with police is concerning.  I have not seen anything on the west side where I am at, but from the news and pictures it is very concerning and makes me feel worried going outside.  Didn't do much today watched TV and started watching Central Park on Apple TV+ and Spaceforce on Netflix. Both seem really funny and I enjoyed them, will finish Spaceforce this week.",
+      "codes": [
+        {
+          "code": "depressed",
+          "text": "the looting and violence outside is really upsetting and fearful"
+        },
+        {
+          "code": "fear",
+          "text": "the looting and violence outside is really upsetting and fearful"
+        },
+        {
+          "code": "outside",
+          "text": "the looting and violence outside is really upsetting and fearful"
+        },
+        {
+          "code": "outside",
+          "text": "I have not seen any issues on the west side where I am at but still concerned"
+        },
+        {
+          "code": "basic",
+          "text": "did not do much today"
+        },
+        {
+          "code": "tv",
+          "text": "watched TV and started Central Park and Spaceforce"
+        }
+      ]
+    },
+    {
+      "date": "6-1-20",
+      "scale": 2,
+      "day_type": "Intense Work Day",
+      "household_problems": false,
+      "internal_news_bad_influence": false,
+      "external_news_bad_influence": true,
+      "work_problems": false,
+      "relationship_problems": false,
+      "exercised": true,
+      "consumed_alchol": false,
+      "got_outside": false,
+      "temp_high": 72,
+      "temp_low": 54,
+      "temp_average": 62.8,
+      "wind": 10.4,
+      "rain_inches": 0,
+      "heartrate_low": 55,
+      "heartrate_high": 168,
+      "heartrate_resting": 59,
+      "kcal_active": 972,
+      "kcal_resting": 2317,
+      "kcal_total": 3289,
+      "exercise_time": 54,
+      "exercise_type": "Indoor Cycle",
+      "steps": 2843,
+      "sound_max_db": 85,
+      "diary_sad_points": "So much craziness watching pictures around my office getting smashed (Madison and 5th ave) and tonight will be a curfew.",
+      "diary": "Today was a lot of work but I felt accomplished, got it all submitted and got a setup in place to prepare for the pass off of tickets to other team members.  I have been working on getting the base system in place so that other developers can be brought in quickly and focus on creating UIs without any issue.  I am excited for this project and it is coming together nicely.  Today we had a curfew. I think this is the first time in my life I have been in a curfew.  Didn't seem much different outside over here but later was way less cars than normal.  Hopefully these looters can stop or get under control soon and that this does not push back the opening times for the city related to coronavirus.   I am ready for things tom get back to normal and to get out more.  Living in such an expensive place and just staying inside not benefiting from it has been a depressing though lately.",
+      "codes": [
+        {
+          "code": "fear",
+          "text": "so much crazy outside seeing pictures of destruction near my office (Madison and 5th Ave area)"
+        },
+        {
+          "code": "work",
+          "text": "so much crazy outside seeing pictures of destruction near my office (Madison and 5th Ave area)"
+        },
+        {
+          "code": "work",
+          "text": "today was a lot of work"
+        },
+        {
+          "code": "accomplished",
+          "text": "got lots of work done and felt accomplished"
+        },
+        {
+          "code": "excited",
+          "text": "I am excited about this project"
+        },
+        {
+          "code": "curfew",
+          "text": "today we had curfew in New York city"
+        },
+        {
+          "code": "curfew",
+          "text": "I think this is the first time in my life I have had curfew"
+        },
+        {
+          "code": "outside",
+          "text": "did not seem that different outside but was way less cars out"
+        },
+        {
+          "code": "hope",
+          "text": "hopefully the looting can end and things can get back to normal"
+        },
+        {
+          "code": "fear",
+          "text": "that looting and protests will push back coronavirus efforts"
+        },
+        {
+          "code": "normal",
+          "text": "I am ready for things to get back to normal"
+        },
+        {
+          "code": "depressed",
+          "text": "living in such an expensive place and not benefiting is depressing"
+        },
+        {
+          "code": "money",
+          "text": "living in such an expensive place and not benefiting is depressing"
+        }
+      ]
+    }
+   ]

@@ -1,0 +1,25 @@
+<a *ngIf="entryIndex !== 0" (click)="goPrevious($event)" class="nav-links" href="#">Previous</a>
+<a (click)="goHome($event)" class="nav-links" href="#">All entries</a>
+<a *ngIf="entryIndex + 1 !== data.length" (click)="goNext($event)" class="nav-links" href="#">Next</a>
+<a (click)="viewCodes($event)" class="nav-links" href="#">View Code Breakdown</a>
+<h2>Viewing entry: {{entry.date}}</h2>
+<div class="diary-page">
+    <div class="text">
+        <ng-container *ngIf="entry.diary_sad_points">
+            <h3>Diary Sad points</h3>
+            <p class="diary-text">{{entry.diary_sad_points}}</p>
+        </ng-container>
+        <ng-container *ngIf="entry.diary">
+            <h3>Diary</h3>
+            <p class="diary-text">{{entry.diary}}</p>
+        </ng-container>
+    </div>
+    <div class="codes">
+        <h3>Code Entry/Edit</h3>
+        <textarea [(ngModel)]="codes"></textarea>
+        <div class="past-codes">
+            <span *ngFor="let code of pastCodes" class="code-examples">{{code}}</span>
+        </div>
+    </div>
+</div>
+<pre class="code-array" id="code-area" (click)="selectAll()">{{stringify(getCodes(), undefined, 2)}}</pre>

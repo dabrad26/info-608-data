@@ -1,0 +1,25 @@
+.code-array {
+    font-family: monospace;
+}
+
+.diary-page {
+    display: flex;
+
+    .text {
+        padding-right: 20px;
+    }
+
+    .text, .codes {
+        flex: 1;
+    }
+
+    .codes textarea {
+        width: 100%;
+        height: 100%;
+        resize: none;
+    }
+}
+
+.past-codes {
+    padding: 10px;
+}

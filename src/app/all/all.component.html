@@ -1,0 +1,60 @@
+<a (click)="viewCodes($event)" class="nav-links" href="#">View Code Breakdown</a>
+<h2>All data</h2>
+<table border="1">
+  <tr class="header">
+    <th width="60">Date</th>
+    <th>Day Scale</th>
+    <th>Day Type</th>
+    <th>Household Problems</th>
+    <th>Saddening Internal news</th>
+    <th>Saddening External news</th>
+    <th>Work Problems</th>
+    <th>Relationship Problems</th>
+    <th>Consumed Alcohol</th>
+    <th>Got out of the house</th>
+    <th>Low Heartrate (bpm)</th>
+    <th>High Heartrate (bpm)</th>
+    <th>Avg Resting Heartrate (bpm)</th>
+    <th>Exercised</th>
+    <th>Exercise Type</th>
+    <th>Exercise Time</th>
+    <th>Active Energy (kcal)</th>
+    <th>Resting Energy (kcal)</th>
+    <th>Total Energy (kcal)</th>
+    <th>Steps</th>
+    <th>Sound Max (dB)</th>
+    <th>High Temp (F)</th>
+    <th>Low Temp (F)</th>
+    <th>Avg Temp (F)</th>
+    <th>Wind (mph)</th>
+    <th>Rain (in)</th>
+  </tr>
+  <tr *ngFor="let entry of data" (click)="handleClick(entry)">
+    <td>{{entry.date}}</td>
+    <td>{{entry.scale}}</td>
+    <td>{{entry.day_Type}}</td>
+    <td>{{entry.household_problems}}</td>
+    <td>{{entry.internal_news_bad_influence}}</td>
+    <td>{{entry.external_news_bad_influence}}</td>
+    <td>{{entry.work_problems}}</td>
+    <td>{{entry.relationship_problems}}</td>
+    <td>{{entry.consumed_alchol}}</td>
+    <td>{{entry.got_outside}}</td>
+    <td>{{entry.heartrate_low}}</td>
+    <td>{{entry.heartrate_high}}</td>
+    <td>{{entry.heartrate_resting}}</td>
+    <td>{{entry.exercised}}</td>
+    <td>{{entry.exercise_type}}</td>
+    <td>{{entry.exercise_time}}</td>
+    <td>{{entry.kcal_active}}</td>
+    <td>{{entry.kcal_resting}}</td>
+    <td>{{entry.kcal_total}}</td>
+    <td>{{entry.steps}}</td>
+    <td>{{entry.sound_max_db}}</td>
+    <td>{{entry.temp_high}}</td>
+    <td>{{entry.temp_low}}</td>
+    <td>{{entry.temp_average}}</td>
+    <td>{{entry.wind}}</td>
+    <td>{{entry.rain_inches}}</td>
+  </tr>
+</table>
