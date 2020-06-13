@@ -40,6 +40,11 @@ export class CodesComponent implements OnInit {
     this.router.navigate(['/']);
   }
 
+  viewCharts(event) {
+    event.preventDefault();
+    this.router.navigate([`/charts`]);
+  }
+
   getItemsFromCode(code) {
     return this.codeList.get(code);
   }
@@ -49,7 +54,6 @@ export class CodesComponent implements OnInit {
     console.log(entry);
     const date = entry.split('~')[1];
     this.router.navigate([`/${date}`]);
-
   }
 
 }

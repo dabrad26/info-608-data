@@ -61,6 +61,11 @@ export class ViewComponent implements OnInit {
     this.router.navigate([`/codes`]);
   }
 
+  viewCharts(event) {
+    event.preventDefault();
+    this.router.navigate([`/charts`]);
+  }
+
   toggleMeta(event) {
     event.preventDefault();
     this.viewMeta = !this.viewMeta;

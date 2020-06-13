@@ -28,4 +28,9 @@ export class AllComponent implements OnInit {
     event.preventDefault();
     this.router.navigate([`/codes`]);
   }
+
+  viewCharts(event) {
+    event.preventDefault();
+    this.router.navigate([`/charts`]);
+  }
 }

@@ -2,6 +2,7 @@
 <a (click)="goHome($event)" class="nav-links" href="#">All entries</a>
 <a *ngIf="entryIndex + 1 !== data.length" (click)="goNext($event)" class="nav-links" href="#">Next</a>
 <a (click)="viewCodes($event)" class="nav-links" href="#">View Code Breakdown</a>
+<a (click)="viewCharts($event)" class="nav-links" href="#">View Charts</a>
 <h2>Viewing entry: {{entry.date}}</h2>
 <div class="metadata {{viewMeta ? 'open' : ''}}">
     <a href="#" class="nav-links" (click)="toggleMeta($event)">{{viewMeta ? 'Hide' : 'View'}} Metadata</a>

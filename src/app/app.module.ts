@@ -7,13 +7,15 @@ import { AppComponent } from './app.component';
 import { ViewComponent } from './view/view.component';
 import { AllComponent } from './all/all.component';
 import { CodesComponent } from './codes/codes.component';
+import { ChartsComponent } from './charts/charts.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ViewComponent,
     AllComponent,
-    CodesComponent
+    CodesComponent,
+    ChartsComponent
   ],
   imports: [
     BrowserModule,
