@@ -32,6 +32,10 @@ export class ChartsComponent implements AfterViewInit {
             type: 'time',
             time: {
               unit: 'day'
+            },
+            scaleLabel: {
+              labelString: 'Day',
+              display: true
             }
           }],
           yAxes: [{
@@ -39,7 +43,11 @@ export class ChartsComponent implements AfterViewInit {
               max: 5,
               min: 1,
               stepSize: 1
-          }
+            },
+            scaleLabel: {
+              labelString: 'Overall Happiness (1: sad, 5: happy)',
+              display: true
+            }
           }]
         }
       },
